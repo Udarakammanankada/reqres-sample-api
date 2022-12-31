@@ -10,6 +10,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Reqres-mock-API" />
+        <module name="reqres-sample-api" />
       </profile>
     </annotationProcessing>
   </component>
